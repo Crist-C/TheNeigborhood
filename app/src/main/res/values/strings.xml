@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TheNeighborhood</string>
+    <string name="Email">email</string>
+    <string name="Password">password</string>
+    <string name="NameRequest">Tell us whats your name : )</string>
+    <string name="LastNameRequest">and your last name?</string>
+    <string name="CellphoneRequest">what is your cell phone number</string>
+    <string name="PasswordConfirmation">confirm your password</string>
+</resources>
